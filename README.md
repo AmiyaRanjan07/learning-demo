@@ -1,2 +1,2 @@
 # learning-demo
-first time using git and learning 
+first time using git and learning .
